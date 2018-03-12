@@ -1,0 +1,13 @@
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\TemplateWPF.Core.dll
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\TemplateWPF.Core.pdb
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\Ninject.dll
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\PropertyChanged.dll
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\Ninject.xml
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\PropertyChanged.xml
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\obj\Debug\TemplateWPF.Core.csprojResolveAssemblyReference.cache
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\obj\Debug\TemplateWPF.Core.g.resources
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\obj\Debug\TemplateWPF.Core.csproj.CoreCompileInputs.cache
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\obj\Debug\TemplateWPF.Core.dll
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\obj\Debug\TemplateWPF.Core.pdb
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\Testinator.AnimationFramework.dll
+C:\Users\minor\Documents\GitHub\TemplateWPF\TemplateWPF.Core\bin\Debug\Testinator.AnimationFramework.pdb
